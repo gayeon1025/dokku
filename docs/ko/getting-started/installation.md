@@ -36,6 +36,7 @@ Debian 8이나 Ubuntu 14.04의 사용자의 경우 패키지 매니저의 nginx 
 혹은 [advanced install guide](/docs/getting-started/advanced-installation/#configuring)를 참고하여 자동설치를 진행 할 수도 있습니다.
 
 > **주의:** 웹 설치 관리자를 통해 설치를 완료하지 않을 경우 (다른 방법으로 SSH 키 및 가상호스트를 설정했더라도) 설치 페이지를 찾고 키를 삽입하는 사용자에게 취약한 상태로 유지된다. `ps auxf | grep dokku-installer`를 통해 웹 설치 관리자가 실행중인지 확인할 수 있으며, 당신 서버의 초기화 시스템을 통해 중지할 수 있습니다 - 보통 `service dokku-installer stop` or `stop dokku-installer`의 명령어를 이용함.
+
 > **주의:** CentOS와 Linux에서는 웹 브라우저를 통해 SSH 키 및 가상호스트를 설정할 수 없습니다. [SSH 키](/docs/deployment/user-management.md#adding-ssh-keys) 와 [가상호스트](/docs/configuration/domains.md#customizing-hostnames)를 참고하여 설치를 완료해주시기 바랍니다.
 
 #### 3. 첫 번째 어플리케이션 배포하기
