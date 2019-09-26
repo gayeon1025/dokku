@@ -13,7 +13,7 @@ Dokku 공식 사이트를 방문해 보세요. 자주 사용하는 개발자 도
 - [irc.freenode.net/#dokku](https://webchat.freenode.net/?channels=dokku)
 - [Gliderlabs Slack](https://glider-slackin.herokuapp.com/)
 
-만약 어려움이 생긴다면 Dokku IRC나 Slack 채널에 질문해 주시기 바랍니다. 북남미의 기준의 낮시간에는 주로 개발자들이 상주해 있을 것입니다. 여러분의 어떠한 물음도 환영하니 도움이 필요하던지, 주변의 다른 개발자를 찾고 싶든지 혹은 당신의 멋진 스포츠카를 기증하고 싶든지 언제든 연락 주세요 :-) 
+만약 어려움이 생긴다면 Dokku IRC나 Slack 채널에 질문해 주시기 바랍니다. 북남미의 기준의 낮시간에는 주로 개발자들이 상주해 있을 것입니다. 여러분의 어떠한 물음도 환영하니 도움이 필요하든지, 주변의 다른 개발자를 찾고 싶든지 혹은 당신의 멋진 스포츠카를 기증하고 싶든지 언제든 연락 주세요 :-) 
 
 ## Stack Overflow
 
